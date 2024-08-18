@@ -5,7 +5,7 @@
 
 - 📝 I sometimes write articles on Medium [https://medium.com/@misu_sergiu](https://medium.com/@misu_sergiu)
 
-- 📫 How to reach me **here on GitHub or via Email from my resume**
+- 📫 How to reach me? **Here on GitHub or via Email from my resume**
 
 - 📄 Know about my experiences [placeholder](placeholder)
 
