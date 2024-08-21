@@ -5,10 +5,9 @@
 
 - 📝 I sometimes write articles on Medium [https://medium.com/@misu_sergiu](https://medium.com/@misu_sergiu)
 
-- 📫 How to reach me? **Here on GitHub or via Email from my resume**
+- 📫 How to reach me? **Here on GitHub or via contact details from my resume**
 
-- 📄 Know about my experiences [placeholder](placeholder)
-
+- 📄 Know about my experiences ![resume](https://raw.githubusercontent.com/StanciuMihai/StanciuMihai/main/CV_Mihai_Stanciu_2024_EN.pdf)
 - ⚡ Fun fact **I repair computers and electronics as a hobby**
 
 <h3 align="left">Connect with me:</h3>
