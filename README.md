@@ -7,7 +7,8 @@
 
 - 📫 How to reach me? **Here on GitHub or via contact details from my resume**
 
-- 📄 Know about my experiences ![resume](https://raw.githubusercontent.com/StanciuMihai/StanciuMihai/main/CV_Mihai_Stanciu_2024_EN.pdf)
+- 📄 Know about my experiences: ![resume](https://raw.githubusercontent.com/StanciuMihai/StanciuMihai/main/CV_Mihai_Stanciu_2024_EN.pdf)
+  
 - ⚡ Fun fact **I repair computers and electronics as a hobby**
 
 <h3 align="left">Connect with me:</h3>
